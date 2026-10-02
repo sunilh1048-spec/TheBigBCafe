@@ -1,0 +1,7 @@
+{
+  "name": "The Big Bellyz Menu",
+  "description": "A sophisticated digital menu for 'The Big Bellyz' featuring a wide range of appetizers, burgers, pasta, pizza, and unique fusion dishes with a warm, modern aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
